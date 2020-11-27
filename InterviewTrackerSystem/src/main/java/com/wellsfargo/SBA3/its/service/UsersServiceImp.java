@@ -1,8 +1,6 @@
 package com.wellsfargo.SBA3.its.service;
 
-import java.util.List
-;
-
+import java.util.List;
 
 import javax.transaction.Transactional;
 
