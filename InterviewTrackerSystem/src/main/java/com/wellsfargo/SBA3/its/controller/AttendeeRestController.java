@@ -1,7 +1,6 @@
 package com.wellsfargo.SBA3.its.controller;
 
-import java.util.ArrayList
-;
+import java.util.ArrayList;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
